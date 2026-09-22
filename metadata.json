@@ -1,0 +1,6 @@
+{
+  "name": "KuraOS - AI School Intelligence Platform",
+  "description": "Enterprise-grade AI School Operating System uniting real-time academic intelligence, teacher smart gradebook, attendance tracking, explainable student risk predictions, parent portal, financial analytics, and targeted intervention workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
